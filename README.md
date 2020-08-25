@@ -1,4 +1,6 @@
-## Hi there I'm HyeonSeok 👋
+## Hi there, I'm HyeonSeok 👋
+
+## Android Developer & Figma UI Designer
 
 <!--
 **HeonSeokCha/HeonSeokCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
