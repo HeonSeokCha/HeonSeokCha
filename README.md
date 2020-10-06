@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-bbbbbb?style=for-the-badge&logo=figma&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-FDBE3B?style=for-the-badge&logo=figma&logoColor=fff)
 
 <!--
 **HeonSeokCha/HeonSeokCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
