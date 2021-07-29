@@ -6,6 +6,7 @@
 Hello, I'm HeyonSeok Cha, a junior Android developer in South Korea.
 
 - 🤩 I’m currently learning Android.
+- I started learning Jetpack Compose😎.
 - 🔭 I’m currently working on [YourAnimeList](https://github.com/HeonSeokCha/YourAnimeList)
 - I love Kotlin 💞
 
